@@ -51,12 +51,13 @@ a {
     color:rgb(255, 255, 255);
 }
 
-.active {
-    color:tomato
-}
 
 a:hover {
      color:rgb(204, 104, 223)
+}
+
+.art {
+    color:black
 }
 
 #raid {
