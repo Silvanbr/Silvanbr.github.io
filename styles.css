@@ -1,0 +1,36 @@
+.navi {
+    width: 80%;
+    background-color: rgb(79, 216, 214);
+    margin-left: 0px;
+    margin-right: auto;
+    padding: 10px;
+    height: 400px;
+    max-width:100px;
+    text-align: left;
+}
+
+a {
+    color:white;
+}
+
+a:hover {
+     color:beige
+}
+
+.raid {
+    margin-left: 1200px;
+    margin-right: auto;
+    padding: 10px;
+    height:400px;
+    max-width: 100px;
+}
+
+.profile {
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+.title {
+    color:blueviolet
+}
+
