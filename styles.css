@@ -55,11 +55,13 @@ a {
 
 
 a:hover {
-     color:rgb(204, 104, 223)
+     color:black;
+     background-color: azure;
+     padding:13px;
 }
 
 .art {
-    color:black
+    color:black;
 }
 
 #raid {
@@ -82,3 +84,6 @@ a:hover {
     text-align: center;
 }
 
+#profile {
+    background-color:yellow
+}
