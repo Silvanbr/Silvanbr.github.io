@@ -1,6 +1,6 @@
 .menu {
     width: 80%;
-    background-color: rgb(79, 216, 214);
+    background-color: black;
     margin-left: 0px;
     margin-right: auto;
     margin-top: 50px;
@@ -27,6 +27,12 @@
     margin-left: 60px;
     margin-right: 600px;
     margin-top: 40px;
+}
+
+.prhr {
+    color:black;
+    padding: 2px;
+    background-color: black;
 }
 
 .left {
@@ -72,11 +78,13 @@ a:hover {
 }
 
 #raid {
-    margin-left: 1200px;
+    margin-left: 1350px;
     margin-right: auto;
+    margin-top: -70px;
     padding: 10px;
-    height:400px;
-    max-width: 100px;
+    height: 350px;
+    max-width:100px;
+    position: fixed;
 }
 
 .title1 {
@@ -90,6 +98,12 @@ a:hover {
     color:black;
     margin-top: 50px;
     text-align: center;
+}
+
+#home {
+    text-align: center;
+    margin-top: 55px;
+    font-size: 30px;
 }
 
 #profile {
@@ -108,4 +122,13 @@ a:hover {
 #test {
     margin-top: 300px;
     Margin-left: 300px;
+}
+
+#tester {
+    margin-top:900px;
+}
+
+#hometxt {
+    margin-left: 180px ;
+    margin-right: 500px ;
 }
