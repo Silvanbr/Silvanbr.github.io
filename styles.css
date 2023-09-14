@@ -126,6 +126,7 @@ a:hover {
 
 #tester {
     margin-top:900px;
+    color:grey
 }
 
 #hometxt {
@@ -135,4 +136,39 @@ a:hover {
 
 #faq {
     margin-right: 650px;
+    margin-top: 100px;
+}
+
+#faq_img {
+    margin-top: -50px;
+    float: right;
+    width: 40%;
+}
+
+#faq_ttl {
+    margin-top: 100px;
+    margin-left: 50px;
+}
+
+#file {
+    margin-left: 30px;
+    padding: 20px;
+}
+
+#op {
+    margin-left: 700px ;
+    margin-top: -250px;
+    float: right;
+}
+
+#cs {
+    margin-right: -1420px ;
+    margin-top: -250px;
+    float: right;
+}
+
+#gorbino {
+    margin-right: -1300px ;
+    margin-top: -600px;
+    float: right;
 }
